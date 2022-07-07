@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordanBavlnka
 - 👀 I’m interested in ...
-  Inveting
+  Investing
   Hockey
   Databases
   Automation
